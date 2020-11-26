@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I´m Diana Lemus 👋
+
+![Banner Linked in 7b](https://user-images.githubusercontent.com/65943524/100381932-21262c00-2fe8-11eb-9858-1918f266292b.JPG)
 
 <!--
 **Dicaleme/Dicaleme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
