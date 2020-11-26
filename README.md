@@ -20,7 +20,7 @@
           ⚡ Netbeans                    
           ⚡ SQLite Studio
            
-![Banner LinkedIn 3](https://user-images.githubusercontent.com/65943524/100381944-28e5d080-2fe8-11eb-8aed-2a88c7ab9b65.jpg)
+![BannerLinkedIn 5](https://user-images.githubusercontent.com/65943524/100383843-9eec3680-2fec-11eb-925a-ee14e9c53908.jpg)
 
 <!-- **Dicaleme/Dicaleme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
