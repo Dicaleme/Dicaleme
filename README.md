@@ -7,16 +7,16 @@
 ##### ✨Experience with programming HTML, JavaScript, CSS, Python and Java✨.
 ##### 👯I have worked in teams through SCRUM methodologies through Sprints and Iterations in every project along with a Growth Mindset and Soft Skills.
 
-<!--
-**Dicaleme/Dicaleme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **Dicaleme/Dicaleme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:-->
 
-- 🤔 I’m looking for help with ...
+<!-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ...--> 
+
 
 
 
