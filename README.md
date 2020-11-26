@@ -14,6 +14,11 @@
 ![node](https://user-images.githubusercontent.com/65943524/100384546-6b121080-2fee-11eb-8889-8fee553dd3e2.png)
 ![git](https://user-images.githubusercontent.com/65943524/100384568-75340f00-2fee-11eb-8997-9fdfdf253225.png)
 ![github](https://user-images.githubusercontent.com/65943524/100384579-79f8c300-2fee-11eb-871f-29ffff6f2aa3.png)
+![python](https://user-images.githubusercontent.com/65943524/100384974-6ef26280-2fef-11eb-9be0-92e01a3ac527.png)
+![terminal](https://user-images.githubusercontent.com/65943524/100384979-7154bc80-2fef-11eb-9465-bfa3881d0dac.png)
+![react](https://user-images.githubusercontent.com/65943524/100384982-731e8000-2fef-11eb-883d-d5dc617e26f9.png)
+![visual-studio-code](https://user-images.githubusercontent.com/65943524/100384986-74e84380-2fef-11eb-90c9-eea805be2a99.png)
+
            
 <!--![BannerLinkedIn 5](https://user-images.githubusercontent.com/65943524/100383843-9eec3680-2fec-11eb-925a-ee14e9c53908.jpg)-->
 ![Banner LinkedIn6](https://user-images.githubusercontent.com/65943524/100383938-e5da2c00-2fec-11eb-9976-5ae45040b173.jpg)
