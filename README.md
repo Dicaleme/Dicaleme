@@ -15,6 +15,8 @@
 ![git](https://user-images.githubusercontent.com/65943524/100384568-75340f00-2fee-11eb-8997-9fdfdf253225.png)
 ![github](https://user-images.githubusercontent.com/65943524/100384579-79f8c300-2fee-11eb-871f-29ffff6f2aa3.png)
 
+
+<!-- Trello, Java, Python, NPM -->
            
 <!--![BannerLinkedIn 5](https://user-images.githubusercontent.com/65943524/100383843-9eec3680-2fec-11eb-925a-ee14e9c53908.jpg)-->
 ![Banner LinkedIn6](https://user-images.githubusercontent.com/65943524/100383938-e5da2c00-2fec-11eb-9976-5ae45040b173.jpg)
