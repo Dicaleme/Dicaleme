@@ -7,12 +7,26 @@
 ##### ✨ Experience with programming HTML, JavaScript, CSS, Python and Java✨.
 ##### 👯 Team work through SCRUM methodologies, Sprints and Iterations in every project along with a Growth Mindset and Soft Skills.
 
+###### 💬 Used Tools:
+          ⚡ Atom
+          ⚡ Visual Studio Code
+          ⚡ Trello
+          ⚡ Git 
+          ⚡ Github
+          ⚡ Figma
+          ⚡ Node.js
+          ⚡ Firebase
+          ⚡ NPM
+          ⚡ Netbeans                    
+          ⚡ SQLite Studio
+           
+
 
 <!-- **Dicaleme/Dicaleme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
 
 <!-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...--> 
