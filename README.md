@@ -2,10 +2,11 @@
 
 ![Banner Linked in 7b](https://user-images.githubusercontent.com/65943524/100381932-21262c00-2fe8-11eb-9858-1918f266292b.JPG)
 
-##### 🔭 Bilingual English-Spanish speaker.    
+##### ✨ Modern Polymath ✨ 
+##### 🔭 Bilingual English-Spanish speaker 
 ##### 🌱 One of my biggest achievements is to have multicultural experiences 🌐 in United States, Canada and the Caribbean working in different fields such as 🚀 Tourism, 📝Education, 👷 Customer Care, 📈 Finances, 📸 Technology and 🎨 Arts.
-##### ✨ Experience with programming HTML, JavaScript, CSS, Python and Java✨.
-##### 👯 Team work through SCRUM methodologies, 🔖 Sprints and Iterations in every project along with a Growth Mindset and Soft Skills. 
+##### Self-Learning Programming through perseverance, curiosity and growth mindset.
+##### 👯 SCRUM agile methodology, time management and team work using soft skills through 🔖 sprints and iterations in every project. 
 
 ![html](https://user-images.githubusercontent.com/65943524/100384511-5b92c780-2fee-11eb-97c9-7a078d31de48.png)
 ![javascript](https://user-images.githubusercontent.com/65943524/100384524-6188a880-2fee-11eb-8548-b518897adcf0.png)
@@ -17,7 +18,7 @@
 ![firebase](https://user-images.githubusercontent.com/65943524/100384505-57ff4080-2fee-11eb-879b-4c5ca443b0f4.png)
 ![react_original_logo_icon_146374](https://user-images.githubusercontent.com/65943524/100401631-0d021f00-3028-11eb-9964-f765f78bda13.png)
 ![slack_logo_icon_147236](https://user-images.githubusercontent.com/65943524/100401365-4d14d200-3027-11eb-868e-eea7a3936ba0.png)
-![Trello_icon-icons com_66775](https://user-images.githubusercontent.com/65943524/100401684-2e630b00-3028-11eb-82e9-5a7e132bc826.png)
+![trello_icon_130813](https://user-images.githubusercontent.com/65943524/100401943-edb7c180-3028-11eb-8f0a-0faa50b1d2dc.png)
 ![python_original_logo_icon_146381](https://user-images.githubusercontent.com/65943524/100401368-4dad6880-3027-11eb-8473-8c3337ccec24.png)
 ![java_original_logo_icon_146458](https://user-images.githubusercontent.com/65943524/100401373-4e45ff00-3027-11eb-9b90-cdbbb664f095.png)
 ![netbeans_104344](https://user-images.githubusercontent.com/65943524/100401374-4e45ff00-3027-11eb-9733-90279ac2df52.png)
