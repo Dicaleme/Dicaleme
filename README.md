@@ -1,4 +1,4 @@
-## Hi, ![Gaia_26378](https://user-images.githubusercontent.com/65943524/100402399-23a97580-302a-11eb-8974-c4e3e08468c5.png) I´m Diana Lemus 👋
+## Hi, I´m Diana Lemus 👋![Gaia_26378](https://user-images.githubusercontent.com/65943524/100402399-23a97580-302a-11eb-8974-c4e3e08468c5.png)
 
 ![Banner Linked in 7b](https://user-images.githubusercontent.com/65943524/100381932-21262c00-2fe8-11eb-9858-1918f266292b.JPG)
 
