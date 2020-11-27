@@ -30,6 +30,7 @@
 
 ![nodejs_original_wordmark_logo_icon_146412](https://user-images.githubusercontent.com/65943524/100405015-b8af6d00-3030-11eb-88c6-a490596c6977.png)
 ![nodejs_plain_wordmark_logo_icon_146410](https://user-images.githubusercontent.com/65943524/100405012-b816d680-3030-11eb-83c2-6989a7620567.png)
+![nodejs_original_wordmark_logo_icon_146412 (1)](https://user-images.githubusercontent.com/65943524/100405108-edbbbf80-3030-11eb-86d9-0e7e8d5b8e6a.png)
 ![file_type_node_icon_130301](https://user-images.githubusercontent.com/65943524/100405014-b8af6d00-3030-11eb-91fe-e76a773026c4.png)
 
 
