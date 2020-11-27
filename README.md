@@ -11,8 +11,7 @@
 ![html](https://user-images.githubusercontent.com/65943524/100384511-5b92c780-2fee-11eb-97c9-7a078d31de48.png)
 ![javascript](https://user-images.githubusercontent.com/65943524/100384524-6188a880-2fee-11eb-8548-b518897adcf0.png)
 ![javascript png2](https://user-images.githubusercontent.com/65943524/100384531-65b4c600-2fee-11eb-84bc-5cf881384e3a.png)
-![node](https://user-images.githubusercontent.com/65943524/100384546-6b121080-2fee-11eb-8889-8fee553dd3e2.png)
-![file_type_node_icon_130301](https://user-images.githubusercontent.com/65943524/100404855-653d1f00-3030-11eb-89ef-653234defb49.png)
+
 ![npm_original_wordmark_logo_icon_146402](https://user-images.githubusercontent.com/65943524/100401375-4ede9580-3027-11eb-88f5-12f80283c96e.png)
 ![firebase](https://user-images.githubusercontent.com/65943524/100384505-57ff4080-2fee-11eb-879b-4c5ca443b0f4.png)
 ![react_original_logo_icon_146374](https://user-images.githubusercontent.com/65943524/100401631-0d021f00-3028-11eb-9964-f765f78bda13.png)
@@ -33,11 +32,11 @@
 ![nodejs_original_wordmark_logo_icon_146412 (1)](https://user-images.githubusercontent.com/65943524/100405108-edbbbf80-3030-11eb-86d9-0e7e8d5b8e6a.png)
 ![file_type_node_icon_130301](https://user-images.githubusercontent.com/65943524/100405014-b8af6d00-3030-11eb-91fe-e76a773026c4.png)
 
-
-
 ![linkedin_original_wordmark_logo_icon_146436](https://user-images.githubusercontent.com/65943524/100401370-4dad6880-3027-11eb-80a8-215a3529f216.png)
 
-           
+<!--![node](https://user-images.githubusercontent.com/65943524/100384546-6b121080-2fee-11eb-8889-8fee553dd3e2.png)
+![file_type_node_icon_130301](https://user-images.githubusercontent.com/65943524/100404855-653d1f00-3030-11eb-89ef-653234defb49.png)-->
+
 <!--![BannerLinkedIn 5](https://user-images.githubusercontent.com/65943524/100383843-9eec3680-2fec-11eb-925a-ee14e9c53908.jpg)-->
 ![Banner LinkedIn6](https://user-images.githubusercontent.com/65943524/100383938-e5da2c00-2fec-11eb-9976-5ae45040b173.jpg)
 
