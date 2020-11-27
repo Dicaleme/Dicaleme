@@ -4,7 +4,7 @@
 
 ##### ✨ Modern Polymath ✨ 
 ##### 🔊 Bilingual English-Spanish speaker 
-##### 🌱 Self-Learning Programming through perseverance, curiosity and growth mindset ![1562698-computer-design-digital-logo_107055](https://user-images.githubusercontent.com/65943524/100405897-928acc80-3032-11eb-9bb6-20b44313f139.png)
+##### 🌱 Self-Learning programming skills through perseverance, curiosity and growth mindset ![1562698-computer-design-digital-logo_107055](https://user-images.githubusercontent.com/65943524/100405897-928acc80-3032-11eb-9bb6-20b44313f139.png)
 ##### 👯 SCRUM agile methodology, time management and team work using soft skills through 🔖 sprints and iterations in every project. 
 ##### 🍱 One of my biggest achievements is to have multicultural experiences 🌐 in the United States, Canada and the Caribbean working in different fields such as 🚀 Tourism, 📝Education, 👷 Customer Care, 📈 Finances, 📸 Technology and 🎨 Arts.
 
