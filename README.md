@@ -17,19 +17,16 @@
 ![react_original_logo_icon_146374](https://user-images.githubusercontent.com/65943524/100401631-0d021f00-3028-11eb-9964-f765f78bda13.png)
 ![git](https://user-images.githubusercontent.com/65943524/100384568-75340f00-2fee-11eb-8997-9fdfdf253225.png)
 ![social-github_icon-icons com_50019](https://user-images.githubusercontent.com/65943524/100404254-f9a68200-302e-11eb-996b-4fcc774093e9.png)
-![visualstudiocode_93981](https://user-images.githubusercontent.com/65943524/100404423-530eb100-302f-11eb-8bac-015705cb049a.png)
+![file_type_vscode_icon_130084](https://user-images.githubusercontent.com/65943524/100404687-fcee3d80-302f-11eb-81e2-5dbcd02131eb.png)
 ![figma_logo_icon_147289](https://user-images.githubusercontent.com/65943524/100404422-52761a80-302f-11eb-8a77-d9076b23a1b5.png)
 ![slack_logo_icon_147236](https://user-images.githubusercontent.com/65943524/100401365-4d14d200-3027-11eb-868e-eea7a3936ba0.png)
 ![trello_icon_130813](https://user-images.githubusercontent.com/65943524/100401943-edb7c180-3028-11eb-8f0a-0faa50b1d2dc.png)
-![python_original_logo_icon_146381](https://user-images.githubusercontent.com/65943524/100401368-4dad6880-3027-11eb-8473-8c3337ccec24.png)
+![file_type_python_icon_130221](https://user-images.githubusercontent.com/65943524/100404689-fe1f6a80-302f-11eb-9257-24b3b5465259.png)
 ![java_original_logo_icon_146458](https://user-images.githubusercontent.com/65943524/100401373-4e45ff00-3027-11eb-9b90-cdbbb664f095.png)
 ![netbeans_104344](https://user-images.githubusercontent.com/65943524/100401374-4e45ff00-3027-11eb-9733-90279ac2df52.png)
 ![mysql_original_wordmark_logo_icon_146417](https://user-images.githubusercontent.com/65943524/100401376-4ede9580-3027-11eb-83a2-a1ad2b86fcf6.png)
-![in_linked_linkedin_media_social_icon_124259](https://user-images.githubusercontent.com/65943524/100404587-bb5d9280-302f-11eb-8dec-2959f56bddac.png)
-
-![file_type_vscode_icon_130084](https://user-images.githubusercontent.com/65943524/100404687-fcee3d80-302f-11eb-81e2-5dbcd02131eb.png)
 ![in_linked_linkedin_media_social_icon_124259](https://user-images.githubusercontent.com/65943524/100404688-fd86d400-302f-11eb-8c9a-bd6fa54ada8e.png)
-![file_type_python_icon_130221](https://user-images.githubusercontent.com/65943524/100404689-fe1f6a80-302f-11eb-9257-24b3b5465259.png)
+
 
 ![linkedin_original_wordmark_logo_icon_146436](https://user-images.githubusercontent.com/65943524/100401370-4dad6880-3027-11eb-80a8-215a3529f216.png)
 
