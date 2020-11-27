@@ -4,7 +4,7 @@
 
 ##### ✨ Modern Polymath ✨ 
 ##### 🔭 Bilingual English-Spanish speaker 
-##### 🌱 One of my biggest achievements is to have multicultural experiences 🌐 in United States, Canada and the Caribbean working in different fields such as 🚀 Tourism, 📝Education, 👷 Customer Care, 📈 Finances, 📸 Technology and 🎨 Arts.
+##### 🌱 One of my biggest achievements is to have multicultural experiences 🌐 in the United States, Canada and the Caribbean working in different fields such as 🚀 Tourism, 📝Education, 👷 Customer Care, 📈 Finances, 📸 Technology and 🎨 Arts.
 ##### Self-Learning Programming through perseverance, curiosity and growth mindset.
 ##### 👯 SCRUM agile methodology, time management and team work using soft skills through 🔖 sprints and iterations in every project. 
 
