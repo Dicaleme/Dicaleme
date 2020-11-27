@@ -35,7 +35,9 @@
 <!-- **Dicaleme/Dicaleme** is a ✨ _special_ ✨ 💚  repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
 
-<!-- 🤔 I’m looking for help with ... icons page https://icon-icons.com/es/icono/java-original-logotipo/146458#48
+<!-- 🤔 I’m looking for help with ... 
+icons page https://icon-icons.com/es/icono/java-original-logotipo/146458#48
+emoji page https://gitmoji.carloscuesta.me/
 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
