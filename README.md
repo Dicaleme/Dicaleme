@@ -7,21 +7,22 @@
 ##### ✨ Experience with programming HTML, JavaScript, CSS, Python and Java✨.
 ##### 👯 Team work through SCRUM methodologies, 🔖 Sprints and Iterations in every project along with a Growth Mindset and Soft Skills. 
 
-![firebase](https://user-images.githubusercontent.com/65943524/100384505-57ff4080-2fee-11eb-879b-4c5ca443b0f4.png)
 ![html](https://user-images.githubusercontent.com/65943524/100384511-5b92c780-2fee-11eb-97c9-7a078d31de48.png)
 ![javascript](https://user-images.githubusercontent.com/65943524/100384524-6188a880-2fee-11eb-8548-b518897adcf0.png)
 ![javascript png2](https://user-images.githubusercontent.com/65943524/100384531-65b4c600-2fee-11eb-84bc-5cf881384e3a.png)
 ![node](https://user-images.githubusercontent.com/65943524/100384546-6b121080-2fee-11eb-8889-8fee553dd3e2.png)
+![npm_original_wordmark_logo_icon_146402](https://user-images.githubusercontent.com/65943524/100401375-4ede9580-3027-11eb-88f5-12f80283c96e.png)
 ![git](https://user-images.githubusercontent.com/65943524/100384568-75340f00-2fee-11eb-8997-9fdfdf253225.png)
 ![github](https://user-images.githubusercontent.com/65943524/100384579-79f8c300-2fee-11eb-871f-29ffff6f2aa3.png)
+![firebase](https://user-images.githubusercontent.com/65943524/100384505-57ff4080-2fee-11eb-879b-4c5ca443b0f4.png)
+![react_original_logo_icon_146374](https://user-images.githubusercontent.com/65943524/100401631-0d021f00-3028-11eb-9964-f765f78bda13.png)
 ![slack_logo_icon_147236](https://user-images.githubusercontent.com/65943524/100401365-4d14d200-3027-11eb-868e-eea7a3936ba0.png)
+![Trello_icon-icons com_66775](https://user-images.githubusercontent.com/65943524/100401684-2e630b00-3028-11eb-82e9-5a7e132bc826.png)
 ![python_original_logo_icon_146381](https://user-images.githubusercontent.com/65943524/100401368-4dad6880-3027-11eb-8473-8c3337ccec24.png)
-![linkedin_original_wordmark_logo_icon_146436](https://user-images.githubusercontent.com/65943524/100401370-4dad6880-3027-11eb-80a8-215a3529f216.png)
 ![java_original_logo_icon_146458](https://user-images.githubusercontent.com/65943524/100401373-4e45ff00-3027-11eb-9b90-cdbbb664f095.png)
 ![netbeans_104344](https://user-images.githubusercontent.com/65943524/100401374-4e45ff00-3027-11eb-9733-90279ac2df52.png)
-![npm_original_wordmark_logo_icon_146402](https://user-images.githubusercontent.com/65943524/100401375-4ede9580-3027-11eb-88f5-12f80283c96e.png)
 ![mysql_original_wordmark_logo_icon_146417](https://user-images.githubusercontent.com/65943524/100401376-4ede9580-3027-11eb-83a2-a1ad2b86fcf6.png)
-
+![linkedin_original_wordmark_logo_icon_146436](https://user-images.githubusercontent.com/65943524/100401370-4dad6880-3027-11eb-80a8-215a3529f216.png)
 
 
 <!-- Trello, Replit, Java, Python, NPM -->
