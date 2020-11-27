@@ -24,9 +24,10 @@
 ![file_type_vscode_icon_130084](https://user-images.githubusercontent.com/65943524/100404687-fcee3d80-302f-11eb-81e2-5dbcd02131eb.png)
 ![figma_logo_icon_147289](https://user-images.githubusercontent.com/65943524/100404422-52761a80-302f-11eb-8a77-d9076b23a1b5.png)
 ![slack_logo_icon_147236](https://user-images.githubusercontent.com/65943524/100401365-4d14d200-3027-11eb-868e-eea7a3936ba0.png)
-![trello_plain_wordmark_logo_icon_146320](https://user-images.githubusercontent.com/65943524/100405013-b816d680-3030-11eb-983c-f1f4acf3115d.png)
+
 
 ![linkedin_original_wordmark_logo_icon_146436](https://user-images.githubusercontent.com/65943524/100401370-4dad6880-3027-11eb-80a8-215a3529f216.png)
+![trello_plain_wordmark_logo_icon_146320](https://user-images.githubusercontent.com/65943524/100405013-b816d680-3030-11eb-983c-f1f4acf3115d.png)
 
 <!--![node](https://user-images.githubusercontent.com/65943524/100384546-6b121080-2fee-11eb-8889-8fee553dd3e2.png)
 ![file_type_node_icon_130301](https://user-images.githubusercontent.com/65943524/100404855-653d1f00-3030-11eb-89ef-653234defb49.png)-->
