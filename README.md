@@ -3,9 +3,9 @@
 ![Banner Linked in 7b](https://user-images.githubusercontent.com/65943524/100381932-21262c00-2fe8-11eb-9858-1918f266292b.JPG)
 
 ##### ✨ Modern Polymath ✨ 
-##### 🔭 Bilingual English-Spanish speaker 
-##### 🌱 One of my biggest achievements is to have multicultural experiences 🌐 in the United States, Canada and the Caribbean working in different fields such as 🚀 Tourism, 📝Education, 👷 Customer Care, 📈 Finances, 📸 Technology and 🎨 Arts.
-##### Self-Learning Programming through perseverance, curiosity and growth mindset.
+##### 🔊 Bilingual English-Spanish speaker 
+##### 🍱 One of my biggest achievements is to have multicultural experiences 🌐 in the United States, Canada and the Caribbean working in different fields such as 🚀 Tourism, 📝Education, 👷 Customer Care, 📈 Finances, 📸 Technology and 🎨 Arts.
+##### 🌱 Self-Learning Programming through perseverance, curiosity and growth mindset.
 ##### 👯 SCRUM agile methodology, time management and team work using soft skills through 🔖 sprints and iterations in every project. 
 
 ![html](https://user-images.githubusercontent.com/65943524/100384511-5b92c780-2fee-11eb-97c9-7a078d31de48.png)
