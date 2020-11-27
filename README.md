@@ -14,6 +14,16 @@
 ![node](https://user-images.githubusercontent.com/65943524/100384546-6b121080-2fee-11eb-8889-8fee553dd3e2.png)
 ![git](https://user-images.githubusercontent.com/65943524/100384568-75340f00-2fee-11eb-8997-9fdfdf253225.png)
 ![github](https://user-images.githubusercontent.com/65943524/100384579-79f8c300-2fee-11eb-871f-29ffff6f2aa3.png)
+![slack_logo_icon_147236](https://user-images.githubusercontent.com/65943524/100401365-4d14d200-3027-11eb-868e-eea7a3936ba0.png)
+![slack_original_logo_icon_146340](https://user-images.githubusercontent.com/65943524/100401367-4dad6880-3027-11eb-9d61-d4d6d4bd8382.png)
+![python_original_logo_icon_146381](https://user-images.githubusercontent.com/65943524/100401368-4dad6880-3027-11eb-8473-8c3337ccec24.png)
+![linkedin_original_wordmark_logo_icon_146436](https://user-images.githubusercontent.com/65943524/100401370-4dad6880-3027-11eb-80a8-215a3529f216.png)
+![java_original_wordmark_logo_icon_146459](https://user-images.githubusercontent.com/65943524/100401371-4e45ff00-3027-11eb-8b7a-2420ed292cb8.png)
+![java_original_logo_icon_146458](https://user-images.githubusercontent.com/65943524/100401373-4e45ff00-3027-11eb-9b90-cdbbb664f095.png)
+![netbeans_104344](https://user-images.githubusercontent.com/65943524/100401374-4e45ff00-3027-11eb-9733-90279ac2df52.png)
+![npm_original_wordmark_logo_icon_146402](https://user-images.githubusercontent.com/65943524/100401375-4ede9580-3027-11eb-88f5-12f80283c96e.png)
+![mysql_original_wordmark_logo_icon_146417](https://user-images.githubusercontent.com/65943524/100401376-4ede9580-3027-11eb-83a2-a1ad2b86fcf6.png)
+
 
 
 <!-- Trello, Replit, Java, Python, NPM -->
