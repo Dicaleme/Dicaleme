@@ -21,12 +21,17 @@
 ![file_type_vscode_icon_130084](https://user-images.githubusercontent.com/65943524/100404687-fcee3d80-302f-11eb-81e2-5dbcd02131eb.png)
 ![figma_logo_icon_147289](https://user-images.githubusercontent.com/65943524/100404422-52761a80-302f-11eb-8a77-d9076b23a1b5.png)
 ![slack_logo_icon_147236](https://user-images.githubusercontent.com/65943524/100401365-4d14d200-3027-11eb-868e-eea7a3936ba0.png)
-![trello_icon_130813](https://user-images.githubusercontent.com/65943524/100401943-edb7c180-3028-11eb-8f0a-0faa50b1d2dc.png)
+![trello_plain_wordmark_logo_icon_146320](https://user-images.githubusercontent.com/65943524/100405013-b816d680-3030-11eb-983c-f1f4acf3115d.png)
 ![file_type_python_icon_130221](https://user-images.githubusercontent.com/65943524/100404689-fe1f6a80-302f-11eb-9257-24b3b5465259.png)
 ![java_original_logo_icon_146458](https://user-images.githubusercontent.com/65943524/100401373-4e45ff00-3027-11eb-9b90-cdbbb664f095.png)
 ![netbeans_104344](https://user-images.githubusercontent.com/65943524/100401374-4e45ff00-3027-11eb-9733-90279ac2df52.png)
 ![mysql_original_wordmark_logo_icon_146417](https://user-images.githubusercontent.com/65943524/100401376-4ede9580-3027-11eb-83a2-a1ad2b86fcf6.png)
 ![in_linked_linkedin_media_social_icon_124259](https://user-images.githubusercontent.com/65943524/100404688-fd86d400-302f-11eb-8c9a-bd6fa54ada8e.png)
+
+![nodejs_original_wordmark_logo_icon_146412](https://user-images.githubusercontent.com/65943524/100405015-b8af6d00-3030-11eb-88c6-a490596c6977.png)
+![nodejs_plain_wordmark_logo_icon_146410](https://user-images.githubusercontent.com/65943524/100405012-b816d680-3030-11eb-83c2-6989a7620567.png)
+![file_type_node_icon_130301](https://user-images.githubusercontent.com/65943524/100405014-b8af6d00-3030-11eb-91fe-e76a773026c4.png)
+
 
 
 ![linkedin_original_wordmark_logo_icon_146436](https://user-images.githubusercontent.com/65943524/100401370-4dad6880-3027-11eb-80a8-215a3529f216.png)
