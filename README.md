@@ -9,8 +9,7 @@
 ##### 🍱 Multicultural experiences 🌐 in the United States, Canada and the Caribbean working in different fields such as 🚀 Tourism, 📝Education, 
 ##### 👷 Customer Care, 📈 Finances, 📸 Technology and 🎨 Arts.
 
-![CENEFA JPG2](https://user-images.githubusercontent.com/65943524/100519901-d41d9380-3168-11eb-954d-0cf083aca990.JPG)
-![CENEFA JPG2](https://user-images.githubusercontent.com/65943524/100519901-d41d9380-3168-11eb-954d-0cf083aca990.JPG)
+***************************************************************************************************************************************************
 
 
 #### ➕ SKILLS 📈
