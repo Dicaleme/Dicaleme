@@ -9,8 +9,8 @@
 ##### 🍱 Multicultural experiences 🌐 in the United States, Canada and the Caribbean working in different fields such as 🚀 Tourism, 📝Education, 
 ##### 👷 Customer Care, 📈 Finances, 📸 Technology and 🎨 Arts.
 
-***************************************************************************************************************************************************
 
+***************************************************************************************************************************************************
 
 #### ➕ SKILLS 📈
 ![html](https://user-images.githubusercontent.com/65943524/100384511-5b92c780-2fee-11eb-97c9-7a078d31de48.png)
@@ -23,6 +23,7 @@
 ![social-github_icon-icons com_50019](https://user-images.githubusercontent.com/65943524/100404254-f9a68200-302e-11eb-996b-4fcc774093e9.png)
 ![file_type_vscode_icon_130084](https://user-images.githubusercontent.com/65943524/100404687-fcee3d80-302f-11eb-81e2-5dbcd02131eb.png)
 ![figma_logo_icon_147289](https://user-images.githubusercontent.com/65943524/100404422-52761a80-302f-11eb-8a77-d9076b23a1b5.png)
+***************************************************************************************************************************************************
 
 #### 📝 LEARNING NOW ✏️
 ![react_original_logo_icon_146374](https://user-images.githubusercontent.com/65943524/100401631-0d021f00-3028-11eb-9964-f765f78bda13.png)
@@ -30,11 +31,13 @@
 ![java_original_logo_icon_146458](https://user-images.githubusercontent.com/65943524/100401373-4e45ff00-3027-11eb-9b90-cdbbb664f095.png)
 ![netbeans_104344](https://user-images.githubusercontent.com/65943524/100401374-4e45ff00-3027-11eb-9733-90279ac2df52.png)
 ![mysql_original_wordmark_logo_icon_146417](https://user-images.githubusercontent.com/65943524/100401376-4ede9580-3027-11eb-83a2-a1ad2b86fcf6.png)
+***************************************************************************************************************************************************
 
 #### 📱 CONTACT ON 💬
 ![slack_logo_icon_147236](https://user-images.githubusercontent.com/65943524/100401365-4d14d200-3027-11eb-868e-eea7a3936ba0.png)
 ![trello_plain_wordmark_logo_icon_146320 (1)](https://user-images.githubusercontent.com/65943524/100405646-09739580-3032-11eb-9832-1cf399ecf1d7.png)
 ![linkedin_original_wordmark_logo_icon_146436](https://user-images.githubusercontent.com/65943524/100401370-4dad6880-3027-11eb-80a8-215a3529f216.png)
+***************************************************************************************************************************************************
 
 
 
